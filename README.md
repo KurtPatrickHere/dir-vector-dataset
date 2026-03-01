@@ -1,6 +1,6 @@
 # dir-vector-dataset
 
-This repository serves as the dedicated dataset storage for the **dir-vector-dataset** project, containing two large-scale, real-world datasets: **WIKI-Dir** (Wikipedia) and **ARXIV-Dir** (arXiv-derived). Designed to benchmark directory-semantic operations (DSQ/DSM) in vector databases, all files are hosted on Google Drive (link below).&#x20;
+This repository hosts two large-scale, real-world datasets — **WIKI-Dir** (derived from Wikipedia) and **ARXIV-Dir** (derived from arXiv). These datasets are specifically constructed to benchmark directory-semantic operations (such as DSQ and DSM) within vector databases. All associated data files are available for download via the Google Drive link provided below.
 
 ## Dataset Download
 
@@ -60,5 +60,5 @@ Derived from Wikipedia/DBpedia, augmented with a **deep hierarchical structure**
 
 ## Disclaimer
 
-This dataset is for **academic research and non-commercial use only** (dir-vector-dataset project). Comply with arXiv, Wikipedia, and DBpedia copyright regulations. Unauthorized commercial use or distribution is prohibited.
+This dataset is for **academic research and non-commercial use only**. Comply with arXiv, Wikipedia, and DBpedia copyright regulations. Unauthorized commercial use or distribution is prohibited.
 
