@@ -74,4 +74,3 @@ Derived from Wikipedia/DBpedia, augmented with a **deep hierarchical structure**
 
 This dataset is for **academic research and non-commercial use only** (VikingDir project). Comply with arXiv, Wikipedia, and DBpedia copyright regulations. Unauthorized commercial use or distribution is prohibited.
 
-> （注：文档部分内容可能由 AI 生成）
