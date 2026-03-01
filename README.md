@@ -1,6 +1,6 @@
-# VikingDir
+# dir-vector-dataset
 
-This repository serves as the dedicated dataset storage for the **VikingDir** project, containing two large-scale, real-world datasets: **WIKI-Dir** (Wikipedia) and **ARXIV-Dir** (arXiv-derived). Designed to benchmark directory-semantic operations (DSQ/DSM) in vector databases, all files are hosted on Google Drive (link below).&#x20;
+This repository serves as the dedicated dataset storage for the **dir-vector-dataset** project, containing two large-scale, real-world datasets: **WIKI-Dir** (Wikipedia) and **ARXIV-Dir** (arXiv-derived). Designed to benchmark directory-semantic operations (DSQ/DSM) in vector databases, all files are hosted on Google Drive (link below).&#x20;
 
 ## Dataset Download
 
@@ -58,19 +58,7 @@ Derived from Wikipedia/DBpedia, augmented with a **deep hierarchical structure**
 
 * **Core Use Case**: Benchmarking DSQ (Directory-Semantic Query) and DSM (Directory-Semantic Maintenance) operations in vector databases
 
-## Access Instructions
-
-
-
-1. Use a legitimate network connection to access the Google Drive link.
-
-2. Read-only access: Do not modify/delete shared files.
-
-3. Report invalid links, download failures, or corrupted files via repository Issues.
-
-4. Load .fvecs files with `faiss.read_vec_file()` or `numpy` for processing.
-
 ## Disclaimer
 
-This dataset is for **academic research and non-commercial use only** (VikingDir project). Comply with arXiv, Wikipedia, and DBpedia copyright regulations. Unauthorized commercial use or distribution is prohibited.
+This dataset is for **academic research and non-commercial use only** (dir-vector-dataset project). Comply with arXiv, Wikipedia, and DBpedia copyright regulations. Unauthorized commercial use or distribution is prohibited.
 
