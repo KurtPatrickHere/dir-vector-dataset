@@ -1,6 +1,6 @@
 # dir-vector-dataset
 
-This repository hosts two large-scale, real-world datasets — **WIKI-Dir** (derived from Wikipedia) and **ARXIV-Dir** (derived from arXiv). These datasets are specifically constructed to benchmark directory-semantic operations (such as DSQ and DSM) within vector databases. All associated data files are available for download via the Google Drive link provided below.
+This repository hosts two large-scale, real-world datasets — **WIKI-Dir** (derived from Wikipedia) and **ARXIV-Dir** (derived from arXiv). These datasets are specifically constructed to benchmark directory-semantic operations (such as DSQ and DSM) within vector databases. All associated data files are available for download via the Google Drive link provided below. The OpenViking code and evaluation are available at [volcengine/OpenViking](https://github.com/volcengine/OpenViking).
 
 ## Dataset Download
 
